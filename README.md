@@ -1,4 +1,4 @@
-# Building a Calculator App Project
+# Building a Calculator App Project With Javascript
 
 ## Demo
 ![Demo](./images/demo.png)
